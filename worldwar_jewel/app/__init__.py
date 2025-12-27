@@ -1,0 +1,2 @@
+# Pygame application package
+
